@@ -1,3 +1,0 @@
-<FontAwesomeIcon icon={faFileExport}/>
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFileExport} from '@fortawesome/free-solid-svg-icons';
