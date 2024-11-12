@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // Base URL for your backend API 
-const API_BASE_URL = "https://africantalent.onrender.com";
+const API_BASE_URL = "https://chelseatest.onrender.com";
 
 // Helper function to make API requests
 const apiRequest = async (method, endpoint, data = null, headers = {}) => {
